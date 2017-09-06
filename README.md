@@ -1,11 +1,7 @@
-# Angular (4) - Shopping Basket Example
+# Angular (4) - Shopping Cart Sample
 
 
-[![Build Status](https://travis-ci.org/jonsamwell/angular-simple-shopping-cart.svg?branch=master)](https://travis-ci.org/jonsamwell/angular-simple-shopping-cart)  
-
-See it in action https://jonsamwell.github.io/angular-simple-shopping-cart/
-
-# Architectural Summary
+# Summary
 
 * Angular 4 application (scaffolded with angular-cli)
 * Built around RxJS Observables
@@ -50,11 +46,3 @@ npm run start
 
 Then navigate to http://localhost:4200/
 
-
-
-HTTPS development server (note: the development certificate will have to be added as a trusted CA)
-```bash
-npm run start:https
-```
-
-Then navigate to https://localhost:4200/
