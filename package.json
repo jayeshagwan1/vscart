@@ -7,9 +7,11 @@
     "npm": ">= 3.10.8"
   },
   "scripts": {
-    "build": "ng build && gulp",
+    "ng": "ng",
     "start": "ng serve",
-    "test": "ng test --watch false",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
     "e2e": "ng e2e"
   },
   "private": true,
